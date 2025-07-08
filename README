@@ -1,0 +1,52 @@
+# 📊 RFP Lifecycle Tracker – Business Analyst Portfolio Project
+
+This project demonstrates my Business Analyst skills using a simulated **RFP (Request for Proposal)** lifecycle. It combines structured JIRA-style task tracking with a detailed Power BI dashboard for insights and reporting.
+
+---
+
+## 🚀 Project Overview
+
+- 🧠 **Use Case**: RFP tracking and management across business, technical, and sales teams
+- 💼 **Roles Simulated**: Business Analyst, Sales, Solution Architect, Designer, Proposal Manager
+- 🔧 **Tools Used**: JIRA (simulated), Power BI, Excel, GitHub
+
+---
+
+## 📁 Files Included
+
+| File | Description |
+|------|-------------|
+| `RFP_JIRA_Portfolio_Final.xlsx` | Simulated JIRA backlog with user stories, story points, assignees, resolution dates |
+| `RFP_Dashboard.pbix` | Interactive Power BI dashboard built on top of the Excel data |
+| `README.md` | Project summary and usage guide |
+| `BRD_RFP_Lifecycle_Tracker.md` |Business requirement documentation |
+
+---
+
+## 📊 Dashboard Features (Power BI)
+
+- RFPs by status, assignee, and epic
+- Priority & complexity of tasks
+- Story point distribution across epics
+- Day to day submission trends
+- KPI cards: Count of user stories, Avg TAT, Assignee
+- Table: Number of user stories in each epic
+
+---
+
+## 🔍 Skills Demonstrated
+
+- Business requirement gathering & documentation  
+- JIRA-style user story creation  
+- Power BI dashboard design & data modeling  
+- Workflow optimization and visual storytelling  
+
+---
+
+## 🧑‍💻 Author
+
+**Anio Shivallia**  
+Business Analyst | Data Storyteller | Power BI Enthusiast  
+📧 rsanioshivalia@gmail.com]  
+🔗 https://www.linkedin.com/in/anio-rs  
+🔗 https://github.com/shivalia31
