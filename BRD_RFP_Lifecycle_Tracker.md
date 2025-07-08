@@ -35,7 +35,7 @@ To create a centralized and efficient system for managing RFPs across various de
 
 | Role             | Stakeholder     | Responsibility                                      |
 |------------------|------------------|------------------------------------------------------|
-| Business Analyst | You (Author)     | Requirement gathering, documentation, dashboard creation |
+| Business Analyst | Myself           | Requirement gathering, documentation, dashboard creation |
 | Sales Team       | Simulated        | Initiate RFP requests                                |
 | Technical Team   | Simulated        | Provide solution architecture                        |
 | Proposal Manager | Simulated        | Review and finalize submission                       |
@@ -84,7 +84,7 @@ To create a centralized and efficient system for managing RFPs across various de
 - `RFP_JIRA_Portfolio_Final.xlsx` (backlog)
 - `RFP_Dashboard.pbix` (Power BI file)
 - `README.md` (project overview)
-- `BRD_RFP_Lifecycle_Tracker.md` (this document)
+- `BRD_RFP_Lifecycle_Tracker.md`
 
 ---
 
